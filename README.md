@@ -8,7 +8,9 @@
 
 ---
 
-### 🚀 About Me  
+### 🚀 Talking about Personal Stuffs:
+
+- 🔭  I'm currently learning web 3 development;
 - 🔭 I’m currently working on **MERN Stack Projects**  
 - 💬 Ask me about **Web Development, React.js, Node.js, Databases**  
 - 📫 How to reach me: **mehtadarshit55@gmail.com**  
